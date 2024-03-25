@@ -1,0 +1,16 @@
+[
+{
+  "modid": "xpsync",
+  "name": "XP-Sync",
+  "description": "Fixes part of MC-124177, which causes the client to de-sync it's xp from the server. This mod fixes that by adding then removing 1 xp, forcing the client to sync back up.",
+  "version": "${version}",
+  "mcversion": "1.12.2",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Vortron"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
